@@ -1,3 +1,6 @@
+Moved to vassy-odoo-addons
+==========================
+
 Invoice print amout text for Odoo
 ===================================
 
