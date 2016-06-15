@@ -1,4 +1,5 @@
-Moved to vassy-odoo-addons <https://github.com/Vassy/vassy-odoo-addons/tree/8.0>
+Moved to vassy-odoo-addons 
+<https://github.com/Vassy/vassy-odoo-addons/tree/8.0>
 ==========================
 
 Invoice print amout text for Odoo
